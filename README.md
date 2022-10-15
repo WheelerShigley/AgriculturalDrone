@@ -13,7 +13,7 @@ To naviagate to a folder with a space in it you would type in cd Unity\ Projects
 
 Once you have navigated to the folder you want your Unity project to be in, type in:
 
-git clone https://github.com/gibbyb/AgriculturalDrone
+"git clone https://github.com/gibbyb/AgriculturalDrone"
 
 Open Unity Hub, click open, navigate to the folder you chose and select the AgriculturalDrone folder and click open. 
 
