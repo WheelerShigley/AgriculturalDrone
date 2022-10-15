@@ -17,3 +17,4 @@ Once you have navigated to the folder you want your Unity project to be in, type
 
 Open Unity Hub, click open, navigate to the folder you chose and select the AgriculturalDrone folder and click open. 
 
+Once the scene is opened, you just press play and you can then fly the drone.
