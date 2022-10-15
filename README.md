@@ -11,7 +11,9 @@ Open git bash and navigate to your Unity Projects folder. If you haven't made on
 You can navigate by using the cd & ls command like bash on linux. (ie. cd users/user/Documents) 
 To naviagate to a folder with a space in it you would type in cd Unity\ Projects for instance.
 
-Once you have navigated to the folder you want your Unity project to be in, type in git clone https://github.com/gibbyb/AgriculturalDrone
+Once you have navigated to the folder you want your Unity project to be in, type in:
+
+git clone https://github.com/gibbyb/AgriculturalDrone
 
 Open Unity Hub, click open, navigate to the folder you chose and select the AgriculturalDrone folder and click open. 
 
